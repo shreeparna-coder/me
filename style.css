@@ -1,0 +1,41 @@
+body {
+    background-color: #020002;
+}
+h1,h4,h3,p {
+    color: floralwhite;
+}
+img {
+    height: 350px;
+    width: 250px;
+    position: relative;
+    left: 1200;
+    border: 0.2rem solid #fff;
+  border-radius: 2rem;
+  padding: 0.4em;
+  box-shadow: 0 0 .2rem #fff,
+            0 0 .2rem #fff,
+            0 0 2rem #bc13fe,
+            0 0 0.8rem #bc13fe,
+            0 0 2.8rem #bc13fe,
+            inset 0 0 1.3rem #bc13fe; 
+}
+#pic_name {
+    position: relative;
+    left: 1200;
+    color: floralwhite;
+}
+#name {
+    position: relative;
+    top: -360;
+    color: floralwhite;
+}
+#tagline {
+    position: relative;
+    top: -355;
+}
+p {
+    position: relative;
+    top: -350;
+    max-width: 1000px;
+    font-size: 20px;
+}
